@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "泡沫少女",
+  "base_artist": "ミセカイ",
+  "createdAt": "2025-12-02T09:08:59.914949Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泡沫少女",
+      "artist": "ミセカイ",
+      "has_synced": false,
+      "path": "select/pl_01_泡沫少女_ミセカイ.txt"
+    }
+  ]
+}
